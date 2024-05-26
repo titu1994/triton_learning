@@ -131,4 +131,4 @@ dmypy.json
 .pyre/
 
 # torch compile logs
-triton_compile_debug/**/*
+torch_compile_debug/**/*
